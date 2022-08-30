@@ -25,3 +25,7 @@ Use:
 * colormaps.txt - to change colormaps
 * words.txt - to change words in your clouds
 * template.png - to change the banner mask
+* To change font you can run script with font path parameter. For example
+```
+python main.py fonts/Pudelina.ttf
+```

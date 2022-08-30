@@ -134,3 +134,6 @@ dmypy.json
 results/*
 # exception to the rule
 !results/.ignore
+
+#Fonts
+fonts/
