@@ -1,0 +1,14 @@
+viridis
+plasma
+inferno
+cool
+spring
+winter
+PiYG
+bwr
+hsv
+Pastel1
+tab10
+gnuplot
+gnuplot2
+gist_ncar
