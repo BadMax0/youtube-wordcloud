@@ -132,3 +132,5 @@ dmypy.json
 .idea
 #Results
 results/*
+# exception to the rule
+!results/.ignore

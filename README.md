@@ -24,3 +24,4 @@ Use:
 * backgrounds.txt - to change background colors
 * colormaps.txt - to change colormaps
 * words.txt - to change words in your clouds
+* template.png - to change the banner mask
